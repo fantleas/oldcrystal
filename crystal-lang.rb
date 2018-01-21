@@ -4,8 +4,8 @@ class CrystalLang < Formula
   revision 1
 
   stable do
-    url "https://github.com/crystal-lang/crystal/archive/0.24.1.tar.gz"
-    sha256 "4999a4d2a9ffc7bfbea8351b97057c3a135c2091cbd518e5c22ea7f5392b67d8"
+    url "https://github.com/crystal-lang/crystal/archive/0.23.1.tar.gz"
+    sha256 "8cf1b9a4eab29fca2f779ea186ae18f7ce444ce189c621925fa1a0c61dd5ff55"
 
     resource "shards" do
       url "https://github.com/crystal-lang/shards/archive/v0.7.2.tar.gz"
